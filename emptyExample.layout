@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="src\Camera.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="413" topLine="9" />
+	</File>
+	<File name="src\Camera.h" open="0" top="0" tabpos="6">
+		<Cursor position="381" topLine="0" />
+	</File>
+	<File name="src\Cursor.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="349" topLine="3" />
+	</File>
+	<File name="src\Cursor.h" open="1" top="0" tabpos="7">
+		<Cursor position="422" topLine="5" />
+	</File>
+	<File name="src\main.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="318" topLine="0" />
+	</File>
+	<File name="src\oscReceiver.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="798" topLine="0" />
+	</File>
+	<File name="src\testApp.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="3367" topLine="116" />
+	</File>
+	<File name="src\testApp.h" open="1" top="0" tabpos="2">
+		<Cursor position="970" topLine="0" />
+	</File>
+	<File name="src\threadedObject.h" open="1" top="0" tabpos="5">
+		<Cursor position="1018" topLine="27" />
+	</File>
+	<File name="src\volumeCanvas.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1503" topLine="0" />
+	</File>
+	<File name="src\volumeCanvas.h" open="0" top="0" tabpos="0">
+		<Cursor position="264" topLine="0" />
+	</File>
+	<File name="src\volumeSpace.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="9158" topLine="311" />
+	</File>
+	<File name="src\volumeSpace.h" open="1" top="0" tabpos="4">
+		<Cursor position="2194" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
